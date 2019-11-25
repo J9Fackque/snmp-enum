@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) 2019 J9Fackque
 # Command to run: sudo ./snmpscan.sh <communityString>
 
 commstr=$1
